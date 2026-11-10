@@ -1,0 +1,6 @@
+{
+  "_source": "Players who appear in the Wikipedia scorecard summaries for matches 14-20 of NPL 2026 but in no Cricsheet 2026 line-up (Cricsheet stops at match 13). Batting positions are estimates.",
+  "Karnali Yaks": [{"id": "d67d5f00", "name": "DA Miller", "bat_pos": 4, "seen": "match 16, 93* (55)"}],
+  "Pokhara Avengers": [{"id": "d02c40ab", "name": "YS Samra", "bat_pos": 2, "seen": "match 19, 102 (48)"}],
+  "Kathmandu Gorkhas": [{"id": "c05f9d20", "name": "SSD Arachchige", "bat_pos": 6, "seen": "match 20, 2/37 bowling"}]
+}

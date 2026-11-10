@@ -1,0 +1,59 @@
+{
+  "as_of": "2026-11-09",
+  "sims_per_model": 10000,
+  "seed": 7,
+  "p_no_result": 0.01948051948051948,
+  "elo": {
+    "k": 16.0,
+    "regress": 0.25,
+    "h": 0.0,
+    "ratings": {
+      "Biratnagar Kings": 1483.9708418778903,
+      "Chitwan Rhinos": 1469.4672015508813,
+      "Janakpur Bolts": 1478.9435261708954,
+      "Karnali Yaks": 1455.7970887024317,
+      "Kathmandu Gorkhas": 1550.773955229844,
+      "Lumbini Lions": 1548.8033436832404,
+      "Pokhara Avengers": 1445.7303449652795,
+      "Sudur Paschim Royals": 1566.5136978195371
+    }
+  },
+  "calibration": {
+    "sim_r1_mean": 149.1189,
+    "sim_r1_sd": 23.332930865838524,
+    "real_r1_mean": 147.64634146341464,
+    "real_r1_sd": 28.876652088366836,
+    "sim_chase_win": 0.5362,
+    "real_chase_win": 0.5
+  },
+  "backtest": [
+    {
+      "model": "Coin flip",
+      "n": 44,
+      "log_loss": 0.6931471805599452,
+      "brier": 0.25,
+      "accuracy": 0.45454545454545453
+    },
+    {
+      "model": "Elo",
+      "n": 44,
+      "log_loss": 0.6934289526707023,
+      "brier": 0.2503321086391772,
+      "accuracy": 0.4318181818181818
+    },
+    {
+      "model": "Ball-by-ball",
+      "n": 44,
+      "log_loss": 0.6884998108253406,
+      "brier": 0.24783302840909088,
+      "accuracy": 0.5
+    },
+    {
+      "model": "Ensemble",
+      "n": 44,
+      "log_loss": 0.687275276821421,
+      "brier": 0.24731059362967464,
+      "accuracy": 0.45454545454545453
+    }
+  ]
+}

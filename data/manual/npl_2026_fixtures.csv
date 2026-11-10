@@ -1,0 +1,29 @@
+match_no,date,bat_first,bat_second,r1,w1,o1,r2,w2,o2,winner,overs_limit,status
+1,2026-10-26,Sudur Paschim Royals,Lumbini Lions,87,10,17.2,88,3,9.5,Lumbini Lions,20,result
+2,2026-10-27,Chitwan Rhinos,Biratnagar Kings,157,3,20,149,10,19.3,Chitwan Rhinos,20,result
+3,2026-10-27,Karnali Yaks,Janakpur Bolts,132,9,20,113,10,19.3,Karnali Yaks,20,result
+4,2026-10-28,Pokhara Avengers,Sudur Paschim Royals,145,7,20,148,4,16.5,Sudur Paschim Royals,20,result
+5,2026-10-29,Kathmandu Gorkhas,Janakpur Bolts,115,10,19.3,116,2,17.2,Janakpur Bolts,20,result
+6,2026-10-29,Biratnagar Kings,Karnali Yaks,186,7,20,187,6,19.5,Karnali Yaks,20,result
+7,2026-10-31,Lumbini Lions,Chitwan Rhinos,,,,,,,,20,no_result
+8,2026-10-31,Biratnagar Kings,Sudur Paschim Royals,105,2,5,70,3,5,Biratnagar Kings,5,result
+9,2026-11-01,Janakpur Bolts,Pokhara Avengers,147,7,20,138,9,20,Janakpur Bolts,20,result
+10,2026-11-02,Karnali Yaks,Kathmandu Gorkhas,180,6,20,181,6,19.4,Kathmandu Gorkhas,20,result
+11,2026-11-02,Chitwan Rhinos,Sudur Paschim Royals,129,6,20,131,5,16.4,Sudur Paschim Royals,20,result
+12,2026-11-03,Biratnagar Kings,Janakpur Bolts,174,3,20,172,7,20,Biratnagar Kings,20,result
+13,2026-11-03,Pokhara Avengers,Lumbini Lions,97,9,20,98,2,11.4,Lumbini Lions,20,result
+14,2026-11-05,Lumbini Lions,Janakpur Bolts,149,8,20,133,8,20,Lumbini Lions,20,result
+15,2026-11-05,Biratnagar Kings,Kathmandu Gorkhas,83,10,18.3,86,1,9.4,Kathmandu Gorkhas,20,result
+16,2026-11-06,Sudur Paschim Royals,Karnali Yaks,176,6,20,137,7,20,Sudur Paschim Royals,20,result
+17,2026-11-06,Chitwan Rhinos,Pokhara Avengers,151,6,20,121,10,19,Chitwan Rhinos,20,result
+18,2026-11-07,Kathmandu Gorkhas,Lumbini Lions,160,8,20,124,10,19.3,Kathmandu Gorkhas,20,result
+19,2026-11-09,Pokhara Avengers,Karnali Yaks,217,3,20,154,10,18.3,Pokhara Avengers,20,result
+20,2026-11-09,Kathmandu Gorkhas,Chitwan Rhinos,180,8,20,170,7,20,Kathmandu Gorkhas,20,result
+21,2026-11-10,Sudur Paschim Royals,Janakpur Bolts,,,,,,,,20,scheduled
+22,2026-11-12,Biratnagar Kings,Pokhara Avengers,,,,,,,,20,scheduled
+23,2026-11-12,Karnali Yaks,Lumbini Lions,,,,,,,,20,scheduled
+24,2026-11-13,Kathmandu Gorkhas,Sudur Paschim Royals,,,,,,,,20,scheduled
+25,2026-11-13,Janakpur Bolts,Chitwan Rhinos,,,,,,,,20,scheduled
+26,2026-11-14,Biratnagar Kings,Lumbini Lions,,,,,,,,20,scheduled
+27,2026-11-15,Chitwan Rhinos,Karnali Yaks,,,,,,,,20,scheduled
+28,2026-11-15,Pokhara Avengers,Kathmandu Gorkhas,,,,,,,,20,scheduled
